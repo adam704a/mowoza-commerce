@@ -1,4 +1,4 @@
-mowoza-commerce
+Mowoza Commerce
 ===============
 
-Mowoza Mobile
+This is a project to be entered into the Vodafone AppStar proejct (http://vodafoneappstar.com/)
